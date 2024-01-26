@@ -1,5 +1,7 @@
 👋 Hi, I’m Ma. Angela E. Atienza
+
 🌱 I’m currently learning programming 
+
 📫 You can email me on atienzamaangela@gmail.com
 
 <!---
